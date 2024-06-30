@@ -14,12 +14,16 @@ This is a simple e-commerce inventory management system built with FastAPI. It p
 
 ## Setup and Installation
 
-### Prerequisites
+### Requirements
 
-- Python 3.10 or higher
-- Virtual environment tool (optional but recommended)
-- VS Code or any code editor
-- Command Line Interface (CLI)
+- Python 3.10 or later
+- FastAPI
+- SQLAlchemy
+- SQLite
+- AWS CLI
+- Serverless Framework
+
+## Local Setup
 
 ### Steps
 
